@@ -49,7 +49,7 @@ https://testnets.opensea.io/0x7ca2c3c7dece420c97889c06e26bdfdcc802ac95?tab=activ
 ### 5.4 Transfer transaction on etherscan
 https://rinkeby.etherscan.io/tx/0xc126a099e117e38eac3c67b77376b8dad727a0d5f9c05a6e0c02730461771f59
 
-### Contract Abi
+### 6 Contract Abi
 https://raw.githubusercontent.com/admanadel/Blockchain-Capstone/master/eth-contracts/build/contracts/AdmanToken.json
 https://github.com/admanadel/Blockchain-Capstone/tree/master/eth-contracts/build/contracts
 
