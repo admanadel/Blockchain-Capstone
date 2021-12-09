@@ -36,8 +36,8 @@ https://testnets.opensea.io/0x4c811e2d2c4687eab67535f9e462f427abe3f095
 ## 5 Buy one of the tokens on opensea
 ![Run server](img/buy-opensea.JPG)
 
-### 5.1 Token sold activity
-https://testnets.opensea.io/assets/0xc93557d29f5bac148d25b0997fd6d1c5b916b18e/3
+### 5.1 Token sold activity, buy 5 more NTFS with the buyer's account
+https://testnets.opensea.io/0x7ca2c3c7dece420c97889c06e26bdfdcc802ac95?tab=activity
 ![Run server](img/token-sold-activity.JPG)
 
 ### 5.2 Seller's address
